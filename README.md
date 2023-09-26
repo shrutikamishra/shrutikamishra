@@ -1,4 +1,22 @@
 ### Hi there 👋
+Hello, I'm Shrutika. Aspiring Data Analyst.
+
+Data analysis and reporting using Google Sheets and Excel.
+Querying data using SQL.
+Developing dashboards on Tableau.
+
+##📚 Projects
+
+Welcome to my portfolio, where I showcase my projects.
+
+##🛠️ Tools
+
+Language: SQL, R
+Database: Google BigQuery, MySQL
+Visualization: Tableau
+👋🏻 Connect with Me
+
+Linkedin
 
 <!--
 **shrutikamishra/shrutikamishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
