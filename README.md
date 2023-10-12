@@ -15,7 +15,7 @@ Language: SQL, R
 Database: Google BigQuery, MySQL
 Visualization: Tableau
 
-##👋🏻 Connect with Me
+## 👋🏻 Connect with Me
 
 [Linkedin](https://www.linkedin.com/in/shrutika-mishra/details/projects/)
 
