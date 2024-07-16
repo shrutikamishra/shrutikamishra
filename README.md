@@ -3,7 +3,7 @@ Hello, I'm Shrutika. Aspiring Data Analyst.
 
 Data analysis and reporting using Google Sheets and Excel.
 
-Querying data using SQL.
+Querying data using Python and SQL.
 
 Developing dashboards on Tableau.
 
@@ -13,11 +13,11 @@ Welcome to my portfolio, where I showcase my projects.
 
 ## 🛠️ Tools
 
-Language: SQL, R
+Language: SQL, Python, R
 
 Database: Google BigQuery, MySQL
 
-Visualization: Tableau
+Visualization: Tableau, Plotly
 
 ## 👋🏻 Connect with Me
 
